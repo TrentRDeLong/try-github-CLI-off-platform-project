@@ -30,3 +30,6 @@ else:
   
 print(name + " asks: " + question)
 print("Magic 8 Ball's answer: " + answer)
+
+
+
