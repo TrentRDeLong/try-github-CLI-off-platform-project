@@ -1,3 +1,5 @@
+import random 
+
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
@@ -28,3 +30,6 @@ else:
   
 print(name + " asks: " + question)
 print("Magic 8 Ball's answer: " + answer)
+
+
+
